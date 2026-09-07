@@ -63,7 +63,7 @@ function Hero() {
             >
               <SquiggleDoodle className="absolute -top-10 right-10 w-16 text-accent animate-float opacity-80" />
               <span className="block text-5xl sm:text-6xl lg:text-7xl xl:text-[80px]">{firstName}</span>
-              <span className="block text-5xl sm:text-6xl lg:text-7xl xl:text-[80px]">{lastName}<span className="text-accent">.</span></span>
+              <span className="block text-5xl sm:text-6xl lg:text-7xl xl:text-[80px]">{lastName}</span>
             </h1>
 
             <p className="mt-8 max-w-md text-lg font-medium leading-relaxed text-body sm:text-xl">

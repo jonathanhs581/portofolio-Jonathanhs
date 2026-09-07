@@ -8,7 +8,6 @@ function Footer() {
         <div className="text-center md:text-left">
           <p className="font-display text-base font-bold text-ink">
             {profile.name}
-            <span className="text-accent">.</span>
           </p>
           <p className="mt-1 text-sm">
             © {new Date().getFullYear()} · Dibangun dengan React + Tailwind CSS

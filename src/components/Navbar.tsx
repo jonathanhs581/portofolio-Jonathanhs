@@ -54,7 +54,6 @@ function Navbar() {
       >
         <a href="#hero" className={`font-display text-2xl font-bold tracking-tight ${isScrolled ? 'text-ink' : 'text-ink'}`}>
           {profile.name.split(' ')[0]} {profile.name.split(' ')[1] ?? ''}
-          <span className="text-accent">.</span>
         </a>
 
         <ul className="hidden items-center gap-10 md:flex">
