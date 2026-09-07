@@ -2,6 +2,8 @@
 
 Portfolio website pribadi yang dibangun dengan React, TypeScript, Vite, dan Tailwind CSS v4.
 
+**Live demo:** https://portofoliojonathan.vercel.app
+
 ![React](https://img.shields.io/badge/React-19-61DAFB?logo=react&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-Strict-3178C6?logo=typescript&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-8-646CFF?logo=vite&logoColor=white)
@@ -47,8 +49,9 @@ src/
 
 ## Deploy
 
-1. Push ke GitHub
-2. Import repo di [Vercel](https://vercel.com) → framework Vite terdeteksi otomatis → Deploy
+Sudah live di Vercel: https://portofoliojonathan.vercel.app
+
+Setiap push ke `main` akan otomatis ter-deploy ulang.
 
 ## License
 
